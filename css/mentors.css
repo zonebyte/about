@@ -198,6 +198,9 @@ body{
 .mentors img {
     border-radius: 2%;
 }
+.row {
+    margin:0;
+    }
 /* END OF MENTORS SECTION */
 
 
